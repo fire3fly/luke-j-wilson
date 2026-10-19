@@ -17,7 +17,7 @@ export const site = {
   role: "Writer and Editor",
   title: "Luke J. Wilson | Writer, Editor, and Screenwriter", // the title shown in the browser tab and on Google (keep under 65 characters)
   tagline:
-    "Professional writer and editor since 2008. Screenwriter for almost thirty years.",
+    "Professional writer and editor since 2008. Also a screenwriter.",
   description:
     "Luke J. Wilson is a writer, editor, and screenwriter offering content writing, copywriting, editing, proofreading, and ghostwriting. Contact him today.",
   email: "wil4568@hotmail.com",
@@ -42,7 +42,7 @@ export const hero = {
 
 export const quickFacts = [
   { label: "Writing professionally", value: "Since 2008" },
-  { label: "Screenwriting", value: "Almost 30 years" },
+  { label: "Writes", value: "Screenplays, prose, nonfiction, poetry" },
   { label: "Graduate degree", value: "MA, English Language and Nonfiction Writing" },
   { label: "Undergraduate degree", value: "BA, English Language and Creative Writing" },
 ];
@@ -75,7 +75,7 @@ export const services = {
     },
     {
       title: "Screenwriting",
-      text: "Scripts and stories for almost thirty years. See the screenwriting section below.",
+      text: "Feature and television scripts. See the screenwriting section below.",
     },
   ],
   // Small tags under the cards. All come from his resume.
@@ -108,7 +108,7 @@ export const about = {
     "I have been a professional writer and editor for clients since 2008. I write articles, website and marketing copy, and informational content, and I edit and proofread for grammar, clarity, accuracy, and consistency.",
     "My style is direct and economical, in natural language, with the reader always in mind. I am interested in people, their behavior, and their choices, and that shows in everything I write.",
     "I hold a Master of Arts in English Language and Nonfiction Writing and a Bachelor of Arts in English Language and Creative Writing, both from Southern New Hampshire University. I graduated cum laude from both and was honored by Sigma Tau Delta.",
-    "I am also a screenwriter. I have been writing scripts and stories for almost thirty years, and I want to be an award-winning screenwriter. I write because I believe it is what I was meant to do.",
+    "I am also a screenwriter, and I want to be an award-winning screenwriter. I write because I believe it is what I was meant to do.",
   ],
 };
 
@@ -142,7 +142,7 @@ export const journey = [
   {
     title: "Screenwriter and storyteller",
     place: "Independent",
-    dates: "Almost 30 years",
+    dates: "Ongoing",
     summary:
       "Screenplays, creative prose, nonfiction, and poetry.",
   },
